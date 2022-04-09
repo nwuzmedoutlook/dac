@@ -30,7 +30,7 @@ Direct air capture of CO₂ and climate stabilization.
 <!-- [官方文档](https://docsify.js.org/#/zh-cn/quickstart) -->
 [Github](https://github.com/nwuzmedoutlook)
 [DAC导航](https://nwuzmed.ga/)
-[碳索](https://carbonx.cf/)
+[碳索](https://nwuzmed.ga/nav/)
 [开始阅读](?id=DAC技术简介)
 
 
