@@ -10,8 +10,8 @@
     - [:cn: 中文](/zh-cn/)
     - [:us: English](/en-us/) -->
     
-* [📖快速入门](/DAC技术/概念.md)
-* [💌联系反馈](/联系/联系方式.md)
+* [📖快速入门](/DAC/前言.md)
+* [💌联系反馈](https://qq-group.cf/)
 
 <!-- * ❤️❤️ Spring专栏 -->
   <!-- * [❤️❤️ Spring专栏](/zh-cn/AutoJS/AutoJS.md) -->
