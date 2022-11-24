@@ -12,7 +12,7 @@
 <!-- ![logo](zh-cn/style/Logo.jpg) -->
 ![logo](style/CO2.png  ":no-zoom")
 
-# **DAC知识库** <small>0.0.1</small>
+# **碳索** <small>0.0.1</small>
 Direct air capture of CO₂ and climate stabilization.
 
 ![](https://img.shields.io/badge/CO%E2%82%82-%E6%90%AC%E8%BF%90%E5%B7%A5-green)
