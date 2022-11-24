@@ -31,6 +31,6 @@ Direct air capture of CO₂ and climate stabilization.
 [Github](https://github.com/nwuzmedoutlook)
 [DAC导航](https://nwuzmed.ga/)
 [碳索](https://nwuzmed.ga/nav/)
-[开始阅读](?id=碳源 | 碳本溯源)
+[开始阅读](?id=碳源-碳本溯源)
 
 
