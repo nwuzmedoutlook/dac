@@ -10,7 +10,7 @@
     - [:cn: 中文](/zh-cn/)
     - [:us: English](/en-us/) -->
     
-* [📖快速入门](/DAC/前言.md)
+* [📖快速入门](/二氧化碳/DAC/前言.md)
 * [💌联系反馈](https://qq-group.cf/)
 
 <!-- * ❤️❤️ Spring专栏 -->
